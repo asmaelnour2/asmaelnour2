@@ -8,11 +8,11 @@
 
 <br>
 
-<img src="[[[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif]](https://giphy.com/gifs/coxQHKASG60HrHtvkt)](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)" width="380"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="380"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=asmaelnour2&label=Profile%20Views&color=00F5D4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=asmaelnour&label=Profile%20Views&color=00F5D4&style=for-the-badge" />
 
 </div>
 
