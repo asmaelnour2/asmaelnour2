@@ -58,18 +58,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-
-<!-- START GITHUB DYNAMIC STATS SECTION -->
-## 📊 GitHub Analytics & Performance
-<!-- Live dynamic cards displaying user metrics in Dark Neon theme -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmaelnour2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Asma's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaelnour2&layout=compact&theme=tokyonight" alt="Top Languages" height="190px" />
-</div>
-
----
-
 <!-- START SOCIALS & CONNECT SECTION -->
 <div align="center">
 
