@@ -77,7 +77,6 @@
     </td>
   </tr>
 </table>
----
 <!-- START SOCIALS & CONNECT SECTION -->
 <div align="center">
 
