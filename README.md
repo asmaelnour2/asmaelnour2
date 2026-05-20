@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=ASMA%20ABOELNOUR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ENGINEER%20%7C%20BIG%20DATA%20%7C%20CLOUD%20COMPUTING&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&height=70&lines=Designing+Scalable+Data+Pipelines+⚡;Spark+%7C+Kafka+%7C+Hadoop+%7C+AWS;Real-Time+Streaming+Architecture+🚀;Turning+Raw+Data+Into+Powerful+Insights+📊" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Designing+Scalable+Data+Pipelines+%E2%9A%A1;Spark+%7C+Kafka+%7C+Hadoop+%7C+AWS;Real-Time+Streaming+Architecture+%F0%9F%9A%80;Turning+Raw+Data+Into+Powerful+Insights+%F0%9F%93%8A" />
 
 <br>
 
