@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhpdGNvYTVsdXJxdWFkb2R4dTJpcGQzOThwa2VmZ25qY2JpZmV4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)" width="380"/>
+<img src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif]" width="380"/>
 
 <br><br>
 
