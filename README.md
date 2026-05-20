@@ -18,45 +18,65 @@
 <!-- START TECH STACK SECTION -->
 ## 🛠️ Data Engineering Core Skills
 
-### 📂 Core Data Engineering & Architecture
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Persian%20Green?style=for-the-badge&logo=data-engineering&logoColor=white)
-![ETL/ELT Pipelines](https://img.shields.io/badge/ETL%20%2F%20ELT%20Pipelines-007ACC?style=for-the-badge)
-![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-0052CC?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6F61?style=for-the-badge)
-
-### 💻 Programming, Querying & Transformation
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
-### 🌪️ Big Data & Streaming Ecosystem
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=yellow)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-FFFF00?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDE145?style=for-the-badge&logo=apache-hive&logoColor=black)
-![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-9C27B0?style=for-the-badge)
-
-### ☁️ AWS Cloud Services (Data Stack)
-![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Amazon Kinesis](https://img.shields.io/badge/Amazon%20Kinesis-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-
-### ⚙️ Orchestration & DevOps Infrastructure
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CE2?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD Basics](https://img.shields.io/badge/CI%2FCD%20Basics-46a2f1?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 📊 Business Intelligence & Analytics
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" style="font-weight: bold; color: #00F5D4;">📂 Core & Architecture</td>
+    <td>
+      <img src="https://img.shields.io/badge/Data%20Engineering-%231A1E24?style=flat-square&logo=data-engineering&logoColor=%2300F5D4" />
+      <img src="https://img.shields.io/badge/ETL%20%2F%20ELT%20Pipelines-%231A1E24?style=flat-square&logo=git&logoColor=%23FF007F" />
+      <img src="https://img.shields.io/badge/Data%20Warehousing-%231A1E24?style=flat-square&logo=googlecloud&logoColor=%23711C91" />
+      <img src="https://img.shields.io/badge/Data%20Modeling-%231A1E24?style=flat-square&logo=diagrams.net&logoColor=%2300E5FF" />
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; color: #FF007F;">💻 Languages & Queries</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-%231A1E24?style=flat-square&logo=python&logoColor=FFE873" />
+      <img src="https://img.shields.io/badge/SQL-%231A1E24?style=flat-square&logo=microsoft-sql-server&logoColor=%23FF007F" />
+      <img src="https://img.shields.io/badge/PostgreSQL-%231A1E24?style=flat-square&logo=postgresql&logoColor=%2300F5D4" />
+      <img src="https://img.shields.io/badge/dbt-%231A1E24?style=flat-square&logo=dbt&logoColor=FF694B" />
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; color: #00E5FF;">🌪️ Streaming & Big Data</td>
+    <td>
+      <img src="https://img.shields.io/badge/Apache%20Spark-%231A1E24?style=flat-square&logo=apache-spark&logoColor=E25A1C" />
+      <img src="https://img.shields.io/badge/PySpark-%231A1E24?style=flat-square&logo=apache-spark&logoColor=%2300F5D4" />
+      <img src="https://img.shields.io/badge/Apache%20Kafka-%231A1E24?style=flat-square&logo=apache-kafka&logoColor=%23FF007F" />
+      <img src="https://img.shields.io/badge/Hadoop-%231A1E24?style=flat-square&logo=apache-hadoop&logoColor=FFFF00" />
+      <img src="https://img.shields.io/badge/Apache%20Hive-%231A1E24?style=flat-square&logo=apache-hive&logoColor=FDE145" />
+      <img src="https://img.shields.io/badge/Big%20Data%20Analytics-%231A1E24?style=flat-square&logo=google-analytics&logoColor=%23711C91" />
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; color: #FFE873;">☁️ AWS Cloud Stack</td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS%20Cloud-%231A1E24?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon%20S3-%231A1E24?style=flat-square&logo=amazon-s3&logoColor=569A31" />
+      <img src="https://img.shields.io/badge/AWS%20Glue-%231A1E24?style=flat-square&logo=amazon-aws&logoColor=%23FF9900" />
+      <img src="https://img.shields.io/badge/Amazon%20Athena-%231A1E24?style=flat-square&logo=amazon-aws&logoColor=%2300E5FF" />
+      <img src="https://img.shields.io/badge/Amazon%20EMR-%231A1E24?style=flat-square&logo=amazon-aws&logoColor=%23FF007F" />
+      <img src="https://img.shields.io/badge/Amazon%20Kinesis-%231A1E24?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; color: #00F5D4;">⚙️ DevOps & Pipelines</td>
+    <td>
+      <img src="https://img.shields.io/badge/Apache%20Airflow-%231A1E24?style=flat-square&logo=apache-airflow&logoColor=017CE2" />
+      <img src="https://img.shields.io/badge/Docker-%231A1E24?style=flat-square&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/Linux-%231A1E24?style=flat-square&logo=linux&logoColor=FCC624" />
+      <img src="https://img.shields.io/badge/Git%20%26%20GitHub-%231A1E24?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD%20Basics-%231A1E24?style=flat-square&logo=github-actions&logoColor=%2300F5D4" />
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; color: #FF007F;">📊 BI & Visualization</td>
+    <td>
+      <img src="https://img.shields.io/badge/Power%20BI-%231A1E24?style=flat-square&logo=power-bi&logoColor=F2C811" />
+      <img src="https://img.shields.io/badge/Excel-%231A1E24?style=flat-square&logo=microsoft-excel&logoColor=217346" />
+    </td>
+  </tr>
+</table>
 ---
 <!-- START SOCIALS & CONNECT SECTION -->
 <div align="center">
