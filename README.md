@@ -1,89 +1,138 @@
-<!-- START MAIN HEADER SECTION -->
+<!-- ========================== HEADER ========================== -->
+
 <div align="center">
 
-<!-- Typing Effect for a dynamic welcome -->
-# 👋 Hi, I'm Asma Aborlnour
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Data+Engineer+;Streaming+Pipeline+Architect;Big+Data+&amp;+Analytics+Specialist" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=ASMA%20ABOELNOUR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ENGINEER%20%7C%20BIG%20DATA%20%7C%20CLOUD%20COMPUTING&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&height=70&lines=Designing+Scalable+Data+Pipelines+⚡;Spark+%7C+Kafka+%7C+Hadoop+%7C+AWS;Real-Time+Streaming+Architecture+🚀;Turning+Raw+Data+Into+Powerful+Insights+📊" />
+
+<br>
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="380"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F5D4&style=for-the-badge" />
+
+</div>
 
 ---
 
-<!-- Animated tech concept GIF for data engineering visual depth -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms3ZndpZTk1M29wcW1wN3I0cXNndmt0Y3I0ZzBwa3I1Z3p5Z3ZtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPTE/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+# ⚡ SYSTEM STATUS
 
-### "Architecting scalable data highways, from real-time streaming to production-ready warehousing." 🚀
+```yaml
+name: Asma Aboelnour
+role: Data Engineer
+
+current_focus:
+  - Real-Time Data Streaming
+  - ETL & ELT Pipelines
+  - Distributed Data Systems
+  - Cloud Data Platforms
+
+specialization:
+  - Apache Spark
+  - Apache Kafka
+  - Hadoop Ecosystem
+  - AWS Cloud
+  - Data Warehousing
+
+workflow:
+  ingest_data: completed
+  process_data: completed
+  analyze_data: completed
+  deploy_pipeline: active 🚀
+```
 
 ---
-</div>
 
-<!-- START TECH STACK SECTION -->
-## 🛠️ Data Engineering Core Skills
+# 🛠️ TECHNOLOGY UNIVERSE
 
-<table border="0" width="100%">
-  <tr>
-    <td width="25%" style="font-weight: bold; color: #00F5D4;">📂 Core & Architecture</td>
-    <td>
-      <img src="https://img.shields.io/badge/Data%20Engineering-%231A1E24?style=flat-square&logo=data-engineering&logoColor=%2300F5D4" />
-      <img src="https://img.shields.io/badge/ETL%20%2F%20ELT%20Pipelines-%231A1E24?style=flat-square&logo=git&logoColor=%23FF007F" />
-      <img src="https://img.shields.io/badge/Data%20Warehousing-%231A1E24?style=flat-square&logo=googlecloud&logoColor=%23711C91" />
-      <img src="https://img.shields.io/badge/Data%20Modeling-%231A1E24?style=flat-square&logo=diagrams.net&logoColor=%2300E5FF" />
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; color: #FF007F;">💻 Languages & Queries</td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-%231A1E24?style=flat-square&logo=python&logoColor=FFE873" />
-      <img src="https://img.shields.io/badge/SQL-%231A1E24?style=flat-square&logo=microsoft-sql-server&logoColor=%23FF007F" />
-      <img src="https://img.shields.io/badge/PostgreSQL-%231A1E24?style=flat-square&logo=postgresql&logoColor=%2300F5D4" />
-      <img src="https://img.shields.io/badge/dbt-%231A1E24?style=flat-square&logo=dbt&logoColor=FF694B" />
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; color: #00E5FF;">🌪️ Streaming & Big Data</td>
-    <td>
-      <img src="https://img.shields.io/badge/Apache%20Spark-%231A1E24?style=flat-square&logo=apache-spark&logoColor=E25A1C" />
-      <img src="https://img.shields.io/badge/PySpark-%231A1E24?style=flat-square&logo=apache-spark&logoColor=%2300F5D4" />
-      <img src="https://img.shields.io/badge/Apache%20Kafka-%231A1E24?style=flat-square&logo=apache-kafka&logoColor=%23FF007F" />
-      <img src="https://img.shields.io/badge/Hadoop-%231A1E24?style=flat-square&logo=apache-hadoop&logoColor=FFFF00" />
-      <img src="https://img.shields.io/badge/Apache%20Hive-%231A1E24?style=flat-square&logo=apache-hive&logoColor=FDE145" />
-      <img src="https://img.shields.io/badge/Big%20Data%20Analytics-%231A1E24?style=flat-square&logo=google-analytics&logoColor=%23711C91" />
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; color: #FFE873;">☁️ AWS Cloud Stack</td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS%20Cloud-%231A1E24?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Amazon%20S3-%231A1E24?style=flat-square&logo=amazon-s3&logoColor=569A31" />
-      <img src="https://img.shields.io/badge/AWS%20Glue-%231A1E24?style=flat-square&logo=amazon-aws&logoColor=%23FF9900" />
-      <img src="https://img.shields.io/badge/Amazon%20Athena-%231A1E24?style=flat-square&logo=amazon-aws&logoColor=%2300E5FF" />
-      <img src="https://img.shields.io/badge/Amazon%20EMR-%231A1E24?style=flat-square&logo=amazon-aws&logoColor=%23FF007F" />
-      <img src="https://img.shields.io/badge/Amazon%20Kinesis-%231A1E24?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; color: #00F5D4;">⚙️ DevOps & Pipelines</td>
-    <td>
-      <img src="https://img.shields.io/badge/Apache%20Airflow-%231A1E24?style=flat-square&logo=apache-airflow&logoColor=017CE2" />
-      <img src="https://img.shields.io/badge/Docker-%231A1E24?style=flat-square&logo=docker&logoColor=2496ED" />
-      <img src="https://img.shields.io/badge/Linux-%231A1E24?style=flat-square&logo=linux&logoColor=FCC624" />
-      <img src="https://img.shields.io/badge/Git%20%26%20GitHub-%231A1E24?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/CI%2FCD%20Basics-%231A1E24?style=flat-square&logo=github-actions&logoColor=%2300F5D4" />
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; color: #FF007F;">📊 BI & Visualization</td>
-    <td>
-      <img src="https://img.shields.io/badge/Power%20BI-%231A1E24?style=flat-square&logo=power-bi&logoColor=F2C811" />
-      <img src="https://img.shields.io/badge/Excel-%231A1E24?style=flat-square&logo=microsoft-excel&logoColor=217346" />
-    </td>
-  </tr>
-</table>
-<!-- START SOCIALS & CONNECT SECTION -->
 <div align="center">
 
-## 🌐 Connect With Me
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,docker,linux,git,github,aws,vscode"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/asma-aboelnour)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmaelnour.2004@gmail.com)
+<br><br>
 
+<img src="https://img.shields.io/badge/Apache_Spark-111111?style=for-the-badge&logo=apachespark&logoColor=E35A16"/>
+<img src="https://img.shields.io/badge/Kafka-111111?style=for-the-badge&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/Hadoop-111111?style=for-the-badge&logo=apachehadoop"/>
+<img src="https://img.shields.io/badge/Hive-111111?style=for-the-badge&logo=apachehive"/>
+<img src="https://img.shields.io/badge/Airflow-111111?style=for-the-badge&logo=apacheairflow"/>
+<img src="https://img.shields.io/badge/CI/CD-111111?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi"/>
 
 </div>
+
+---
+
+# 📡 DATA PIPELINE FLOW
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A[Raw Data Sources] --> B[Kafka Streaming]
+B --> C[Spark Processing]
+C --> D[Data Lake]
+D --> E[ETL Pipelines]
+E --> F[Data Warehouse]
+F --> G[Analytics & BI]
+```
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Building intelligent data ecosystems for the future."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+
+<!-- ========================== END ========================== -->
